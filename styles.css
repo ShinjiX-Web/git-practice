@@ -3,3 +3,12 @@
 body, #navbar {
     font-family: 'Comfortaa', cursive;
 }
+
+#nav-bar:hover {
+    color:#584AE4;
+}
+
+#nav-bar1:hover {
+    background-color: #584AE4;
+    color: aliceblue;
+}
